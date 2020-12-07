@@ -1,0 +1,3 @@
+/home/pn/桌面/cmake_test/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/pn/桌面/cmake_test/MathFunctions/CMakeFiles/edit_cache.dir
+/home/pn/桌面/cmake_test/MathFunctions/CMakeFiles/mymath.dir
